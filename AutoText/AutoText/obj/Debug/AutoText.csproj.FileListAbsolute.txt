@@ -1,0 +1,10 @@
+E:\HDH\AutoText\AutoText\bin\Debug\AutoText.exe.config
+E:\HDH\AutoText\AutoText\bin\Debug\AutoText.exe
+E:\HDH\AutoText\AutoText\bin\Debug\AutoText.pdb
+E:\HDH\AutoText\AutoText\obj\Debug\AutoText.Properties.Resources.resources
+E:\HDH\AutoText\AutoText\obj\Debug\AutoText.csproj.GenerateResource.cache
+E:\HDH\AutoText\AutoText\obj\Debug\AutoText.csproj.CoreCompileInputs.cache
+E:\HDH\AutoText\AutoText\obj\Debug\AutoText.exe
+E:\HDH\AutoText\AutoText\obj\Debug\AutoText.pdb
+E:\HDH\AutoText\AutoText\obj\Debug\AutoText.csproj.AssemblyReference.cache
+E:\HDH\AutoText\AutoText\obj\Debug\AutoText.Form1.resources

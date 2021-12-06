@@ -1,0 +1,12 @@
+infor:information
+obj:object
+nvt:Nguyễn Văn Tiên
+bkdn:bách khoa đà nẵng
+cntt:công nghệ thông tin
+qn:Quảng Nam
+dn:Đà Nẵng
+dh:đại học
+fb:facebook
+vn:Việt Nam
+tdh:tự động hóa
+ktx:ký trúc xá
